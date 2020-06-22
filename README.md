@@ -3,6 +3,6 @@ Tutorial on how to install ROS noetic on Ubuntu 20.04 LTS (Focal) in both Arabic
 
 شرح كيفية تثبيت النسخة التاسعة عشر من (نظام تشغيل الروبوت) على نظام (أوبينتو) باللغة العربية والإنجليزية
 
-- [اللغة العربية](ROS-Installation/ROS-Installation-Arabic)
+- [اللغة العربية](ROS-Installation-Arabic.md)
 
-- [English](ROS-Installation/ROS-Installation-English)
+- [English](ROS-Installation-English.md)
